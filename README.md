@@ -29,10 +29,3 @@ Setup routes and controller so that comments are nested under posts.
 
 Read on [Active Model Serializers](https://github.com/rails-api/active_model_serializers).
 Watch the Railscast on [Active Model Serializers](http://railscasts.com/episodes/409-active-model-serializers).
-
-Read on [jBuilder](https://github.com/rails/jbuilder).
-Watch the Railscast on [JBuilder](http://railscasts.com/episodes/320-jbuilder).
-
-What are the differences between Active Model Serializers and JBuilder? When might you use them?
-
-Use JBuilder to make a serializer that returns all of the comments with each post.
